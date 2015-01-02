@@ -1,4 +1,4 @@
-# Express js session-based Websocket application
+# Express.js session-based Websocket application
 Example application demonstrating an access control with cookies and sessions implemented in Express.js
 
 # Dependencies
