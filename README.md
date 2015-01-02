@@ -1,5 +1,5 @@
 # Express.js session-based web application
-Example application demonstrating an access control with cookies and sessions implemented in Express.js
+Example web application demonstrating an access control with cookies and sessions implemented in Express.js
 
 # Dependencies
 * Node.js http://nodejs.org/
