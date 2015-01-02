@@ -1,0 +1,15 @@
+{
+  "name": "Express_Session",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "express": "4.*",
+    "jade": "1.*",
+    "cookie-parser":"1.*",
+    "body-parser":"1.*",
+    "express-session":"1.*"
+  }
+}
